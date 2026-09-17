@@ -131,13 +131,6 @@ fun_fact: "EDIT ME — drop a fun fact about yourself here 🎲"
 
 ## 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zartk-23&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-</div>
-
-<br/>
-
----
 
 ## 🐍 Contribution Snake (3D-ish animated graph)
 
