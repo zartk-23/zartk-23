@@ -180,12 +180,6 @@ fun_fact: "EDIT ME — drop a fun fact about yourself here 🎲"
 
 ---
 
-```
-
-<br/>
-
----
-
 <div align="center">
 
 ### 💚 "Curious about almost everything — building for the things that matter."
