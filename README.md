@@ -41,8 +41,6 @@
 ```yaml
 name: Sarthak Nayak
 role: Software Engineer / AI Engineer
-location: Bengaluru, India
-currently: Graduate Engineer Trainee @ DRDO (DEBEL)
 background: B.Tech in Biomedical Engineering, SRM IST — GPA 8.37
 interests: >
   backend systems, distributed pipelines, LLM infra, RAG, agentic systems,
@@ -55,8 +53,7 @@ fun_fact: "EDIT ME — drop a fun fact about yourself here 🎲"
 - 🌱 I'm currently exploring **LangGraph, MCP tool orchestration & vLLM serving**
 - 💬 Ask me about **FastAPI, Kubernetes, RAG pipelines, or HRV/BCI signal processing**
 - 📫 Reach me at **sarthaknayak2075@gmail.com**
-- 🧠 Published: *"Fracture Risk Reduction Using Reinforcement Learning"* — ICRSC 2025, NIT Sikkim (Springer-Elsevier)
-- ⚡ Fun fact: I bring DRDO-grade rigor to backend engineering — because if it worked for physiological signal analytics, it works for your API too.
+- 🧠 Published: *"Fracture Risk Reduction Using Reinforcement Learning"* — RCSC 2025, NIT Sikkim (SpringeR)
 
 <br/>
 
