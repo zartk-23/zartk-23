@@ -63,7 +63,7 @@
 
 ## 🛠️ Arms
 
-<div align="left">
+<div align="center">
 
 **Languages & Core**
 <br/>
