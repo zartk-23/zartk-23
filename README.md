@@ -9,21 +9,20 @@
 <div align="center">
 
 <!-- 3D WAVING BANNER (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Hi%20There!%20I'm%20Sarthak%20%F0%9F%91%8B&fontSize=42&fontAlign=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Curious%20About%20Everything&descAlignY=55&descSize=18&animation=fadeIn&fontColor=39FF14&descColor=00F0FF" width="100%"/>
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=zartk-23&theme=neon&role=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Curious%20About%20Everything&location=India&v=readme-reference-2" width="100%" alt="Sarthak profile banner" />
 
 <!-- ANIMATED TYPING TAGLINE -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+backend+systems+that+don't+fall+over+%F0%9F%9A%80;Wiring+LLMs+into+real+production+pipelines+%F0%9F%A4%96;%3D+%E2%9D%A4%EF%B8%8F;Always+curious%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Building+backend+systems+that+don't+fall+over+%F0%9F%9A%80;Wiring+LLMs+into+real+production+pipelines+%F0%9F%A4%96;%3D+%E2%9D%A4%EF%B8%8F;Always+curious%2C+always+shipping+%F0%9F%94%A5;Building%20with%20TypeScript%20%C2%B7%20Jupyter%20Notebook%20%C2%B7%20Pyt%E2%80%A6;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+
 
 <!-- SOCIAL LINKS — EDIT ME: fill in placeholders as you make/find the profiles -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarthak-nayak-b9b22b237/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/sarthak-nayak-b9b22b237/"><img src="" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14" /></a>
   <a href="https://leetcode.com/u/sarthakml_23/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
   <a href="mailto:sarthaknayak2075@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.instagram.com/duckstack.dev/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.instagram.com/duckstack.dev/"><img src="" /></a>
 </p>
 
 <!-- VISITOR COUNTER -->
@@ -31,7 +30,7 @@
 
 </div>
 
-<br/>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=zartk-23&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ---
 
@@ -57,7 +56,7 @@
 - 📫 Reach me at **sarthaknayak2075@gmail.com**
 - 🧠 Published: *"Fracture Risk Reduction Using Reinforcement Learning"* — RCSC 2025, NIT Sikkim (SpringeR)
 
-<br/>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=zartk-23&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ---
 
@@ -81,7 +80,7 @@
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify" />
 </div>
 
-<br/>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=zartk-23&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ---
 
@@ -100,14 +99,16 @@
 
 </div>
 
-<br/>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=zartk-23&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 
-## 🐍 Contribution Snake (3D-ish animated graph)
+## 🚀 Contribution (3D-ish animated graph)
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/zartk-23/zartk-23/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=zartk-23&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3" alt="Sarthak contribution Space Shooter" />
+</p>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=zartk-23&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 💼 Featured Projects
 
@@ -124,12 +125,9 @@
 | **[VitalStream AI](#)** — Real-Time Physiological Agentic RAG | HRV feature extraction + LLM-driven clinical alerts over Redis Streams, K8s HPA deployment | `FastAPI` `Redis Streams` `Pinecone` `K8s` |
 | **[PromptForge](#)** — Prompt Version Control & A/B Testing | Git-like prompt registry, Bayesian A/B testing, cross-provider cost optimization via LiteLLM | `FastAPI` `PostgreSQL` `Vercel AI SDK` |
 
-*(👆 EDIT ME: swap the `#` links for your actual repo URLs)*
-
 </div>
 
-<br/>
-
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=zartk-23&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 ---
 
 <h2><code>$ ssh zartk-23@github</code></h2>
@@ -141,6 +139,9 @@
 </picture></p>
 <p align="center"><a href="https://github.com/zartk-23">GitHub</a></p>
 <p align="center"><sub>Sarthak · terminal command center generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=zartk-23&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
 <!-- ================================================================
      🧩 EDIT-ME CHECKLIST (delete this block once done)
      [ ] Add LeetCode username → wire up leetcard.jacoblin.cool/<user>
