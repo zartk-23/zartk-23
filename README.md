@@ -13,7 +13,7 @@
 
 <!-- ANIMATED TYPING TAGLINE -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+backend+systems+that+don't+fall+over+%F0%9F%9A%80;Wiring+LLMs+into+real+production+pipelines+%F0%9F%A4%96;FastAPI+%2B+Kubernetes+%2B+RAG+%2B+MCP+%3D+%E2%9D%A4%EF%B8%8F;Always+curious%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+backend+systems+that+don't+fall+over+%F0%9F%9A%80;Wiring+LLMs+into+real+production+pipelines+%F0%9F%A4%96;%3D+%E2%9D%A4%EF%B8%8F;Always+curious%2C+always+shipping+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <!-- SOCIAL LINKS — EDIT ME: fill in placeholders as you make/find the profiles -->
@@ -27,7 +27,7 @@
 </p>
 
 <!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=zartk-23&label=Profile%20Views&color=F0FFFF&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=zartk-23&label=Profile%20Views&color=2F4F4F&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -61,53 +61,24 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Arms
 
-<div align="center">
+<div align="left">
 
 **Languages & Core**
 <br/>
-<img src="https://skillicons.dev/icons?i=py,ts,bash,git,github" />
-
-**Backend & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,graphql,nginx" />
-<img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=py,ts,git,cpp,fastapi,graphql,sqlite,pytorch,qt,&perline=3" />
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT%20%2F%20OAuth2-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
-**Databases & Vector Stores**
+**Some more...**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,rabbitmq,firebase,matlab,arduino,ros&perline=3" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=00FFAA"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-**Messaging & Streams**
-<br/>
-<img src="https://skillicons.dev/icons?i=kafka,redis" />
 
 **Systems & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,helm,nginx" />
-
-**Observability**
-<br/>
-<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
-
-**AI / LLM Stack**
-<br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logoColor=39FF14"/>
-
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify" />
 </div>
 
 <br/>
