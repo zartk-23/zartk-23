@@ -69,7 +69,7 @@
 
 **Languages & Core**
 <br/>
-<img src="https://skillicons.dev/icons?i=py,ts,git,cpp,fastapi,graphql,sqlite,pytorch,qt,&perline=5"/>
+<img src="https://skillicons.dev/icons?i=py,ts,git,cpp,fastapi,graphql,sqlite,pytorch,qt"/>
 <img src="https://img.shields.io/badge/JWT%20%2F%20OAuth2-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
 **Systems & DevOps**
