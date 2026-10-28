@@ -69,17 +69,17 @@
 
 **Languages & Core**
 <br/>
-<img src="https://skillicons.dev/icons?i=py,ts,git,cpp,fastapi,graphql,sqlite,pytorch,qt"/>
+<img src="https://skillicons.dev/icons?i=py,ts,cpp,fastapi,go,sqlite,pytorch"/>
 <img src="https://img.shields.io/badge/JWT%20%2F%20OAuth2-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
 **Systems & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=docker,git,qt,latex,kubernetes,vercel,netlify" />
 </div>
 
 **Some more...**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,rabbitmq,firebase,matlab,ros&perline=5" />
+<img src="https://skillicons.dev/icons?i=mongodb,rabbitmq,graphql,firebase,matlab,ros" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=00FFAA"/>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=zartk-23&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
