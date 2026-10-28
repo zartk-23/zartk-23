@@ -27,7 +27,7 @@
 </p>
 
 <!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=zartk-23&label=Profile%20Views&color=F0F8FF&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=zartk-23&label=Profile%20Views&color=F0FFFF&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -163,14 +163,6 @@
 <br/>
 
 ---
-
-<div align="center">
-
-### 💚 "Curious about almost everything — building for the things that matter."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-</div>
 
 <h2><code>$ ssh zartk-23@github</code></h2>
 
