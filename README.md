@@ -97,9 +97,6 @@
 
 <p align="center"><b>21</b> public repositories, <b>1</b> stars, <b>114</b> contributions in the last year, a longest streak of <b>5</b> days and <b>0</b> followers.</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zartk-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&langs_count=10" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zartk-23&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=00F0FF&point=FF00FF" width="49%" />
-
 </div>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=zartk-23&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
