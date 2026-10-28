@@ -11,6 +11,9 @@
 <!-- 3D WAVING BANNER (capsule-render) -->
 <img src="https://www.gitskins.com/api/readme-reference/hero?username=zartk-23&theme=neon&role=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Curious%20About%20Everything&location=India&v=readme-reference-2" width="100%" alt="Sarthak profile banner" />
 
+<!--img-->
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+
 <!-- ANIMATED TYPING TAGLINE -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Building+backend+systems+that+don't+fall+over+%F0%9F%9A%80;Wiring+LLMs+into+real+production+pipelines+%F0%9F%A4%96;%3D+%E2%9D%A4%EF%B8%8F;Always+curious%2C+always+shipping+%F0%9F%94%A5;Building%20with%20TypeScript%20%C2%B7%20Jupyter%20Notebook%20%C2%B7%20Pyt%E2%80%A6;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
 
@@ -66,13 +69,13 @@
 
 **Languages & Core**
 <br/>
-<img src="https://skillicons.dev/icons?i=py,ts,git,cpp,fastapi,graphql,sqlite,pytorch,qt,&perline=4" />
+<img src="https://skillicons.dev/icons?i=py,ts,git,cpp,fastapi,graphql,sqlite,pytorch,qt,&perline=5" />
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT%20%2F%20OAuth2-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
 **Some more...**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,rabbitmq,firebase,matlab,ros&perline=3" />
+<img src="https://skillicons.dev/icons?i=mongodb,rabbitmq,firebase,matlab,ros&perline=5" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=00FFAA"/>
 
 **Systems & DevOps**
@@ -101,6 +104,17 @@
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=zartk-23&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zartk-23&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="zartk-23's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=zartk-23&theme=nightowl&hide_border=true&cache_seconds=86400" alt="zartk-23's GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zartk-23&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zartk-23&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sarthak's GitHub Trophies" />
+</p>
 
 ## 🚀 Contribution (3D-ish animated graph)
 
@@ -129,6 +143,8 @@
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=zartk-23&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 ---
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <h2><code>$ ssh zartk-23@github</code></h2>
 
