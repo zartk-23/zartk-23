@@ -9,7 +9,7 @@
 <div align="center">
 
 <!-- 3D WAVING BANNER (capsule-render) -->
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=zartk-23&theme=neon&role=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Curious%20About%20Everything&location=India&v=readme-reference-2" width="100%" alt="Sarthak profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=zartk-23&theme=neon&role=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Curious%20About%20Everything&location=India&v=readme-reference-2" width="70%" alt="Sarthak profile banner" />
 
 <!--img-->
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
