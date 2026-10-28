@@ -27,7 +27,7 @@
 </p>
 
 <!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=zartk-23&label=Profile%20Views&color=#4169E1&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=zartk-23&label=Profile%20Views&color=F0F8FF&style=for-the-badge" alt="profile views"/>
 
 </div>
 
