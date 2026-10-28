@@ -27,7 +27,7 @@
 </p>
 
 <!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=zartk-23&label=Profile%20Views&color=39FF14&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=zartk-23&label=Profile%20Views&color=#4169E1&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -36,17 +36,6 @@
 ---
 
 ## 🧬 About Me
-
-```yaml
-name: Sarthak Nayak
-role: Software Engineer / AI Engineer
-background: B.Tech in Biomedical Engineering, SRM IST — GPA 8.37
-interests: >
-  backend systems, distributed pipelines, LLM infra, RAG, agentic systems,
-  observability, and honestly... almost everything that involves solving
-  a real problem with clean architecture.
-fun_fact: "EDIT ME — drop a fun fact about yourself here 🎲"
-```
 <div align="center">
 
 <p><code>zartk-23@github ~ $ neofetch --live</code></p>
@@ -129,8 +118,14 @@ fun_fact: "EDIT ME — drop a fun fact about yourself here 🎲"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zartk-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00F0FF&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zartk-23&theme=tokyonight&hide_border=true&background=0D1117&ring=39FF14&fire=FF00FF&currStreakLabel=39FF14&sideLabels=00F0FF" width="49%" />
+<h1 align="center">Sarthak</h1>
+<p align="center">Frontend or full-stack engineer</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/galaxy?username=zartk-23&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142799504%3Fu%3D23db1e537acc49c731fada586d08553ba6b9091d%26v%3D4" alt="zartk-23 galaxy visual" />
+</p>
+
+<p align="center"><b>21</b> public repositories, <b>1</b> stars, <b>114</b> contributions in the last year, a longest streak of <b>5</b> days and <b>0</b> followers.</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zartk-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&langs_count=10" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zartk-23&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=00F0FF&point=FF00FF" width="49%" />
@@ -138,8 +133,6 @@ fun_fact: "EDIT ME — drop a fun fact about yourself here 🎲"
 </div>
 
 <br/>
-
-## 🏆 Trophies
 
 
 ## 🐍 Contribution Snake (3D-ish animated graph)
@@ -174,22 +167,6 @@ fun_fact: "EDIT ME — drop a fun fact about yourself here 🎲"
 
 ---
 
-## 📌 Pinned Repos (auto-updating cards)
-
-<div align="center">
-
-<!-- EDIT ME: replace repo names below with your real repo names once pushed -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zartk-23&repo=EventForge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00F0FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zartk-23&repo=SentinelOps&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00F0FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zartk-23&repo=MedAgent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00F0FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zartk-23&repo=VitalStream-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00F0FF&text_color=c9d1d9" width="48%"/>
-
-</div>
-
-<br/>
-
----
-
 <div align="center">
 
 ### 💚 "Curious about almost everything — building for the things that matter."
@@ -198,6 +175,15 @@ fun_fact: "EDIT ME — drop a fun fact about yourself here 🎲"
 
 </div>
 
+<h2><code>$ ssh zartk-23@github</code></h2>
+
+<p>Ready to pair on a useful problem, review a systems decision, or ship the next small thing.</p>
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=zartk-23&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142799504%3Fu%3D23db1e537acc49c731fada586d08553ba6b9091d%26v%3D4&v=terminal-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=zartk-23&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142799504%3Fu%3D23db1e537acc49c731fada586d08553ba6b9091d%26v%3D4&v=terminal-social-1&mode=dark" width="100%" alt="Sarthak terminal contact links" />
+</picture></p>
+<p align="center"><a href="https://github.com/zartk-23">GitHub</a></p>
+<p align="center"><sub>Sarthak · terminal command center generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 <!-- ================================================================
      🧩 EDIT-ME CHECKLIST (delete this block once done)
      [ ] Add LeetCode username → wire up leetcard.jacoblin.cool/<user>
