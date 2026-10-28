@@ -118,9 +118,6 @@
 
 <div align="center">
 
-<h1 align="center">Sarthak</h1>
-<p align="center">Frontend or full-stack engineer</p>
-
 <p align="center">
   <img src="https://www.gitskins.com/api/section/galaxy?username=zartk-23&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142799504%3Fu%3D23db1e537acc49c731fada586d08553ba6b9091d%26v%3D4" alt="zartk-23 galaxy visual" />
 </p>
