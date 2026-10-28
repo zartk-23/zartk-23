@@ -47,6 +47,20 @@ interests: >
   a real problem with clean architecture.
 fun_fact: "EDIT ME — drop a fun fact about yourself here 🎲"
 ```
+<div align="center">
+
+<p><code>zartk-23@github ~ $ neofetch --live</code></p>
+
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="100%" style="width:100%;" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=zartk-23&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142799504%3Fu%3D23db1e537acc49c731fada586d08553ba6b9091d%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=zartk-23&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142799504%3Fu%3D23db1e537acc49c731fada586d08553ba6b9091d%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=dark" width="680" alt="Sarthak animated terminal portrait" />
+</picture>
+</td>
+</tr>
+</table>
 
 - 🔭 I'm currently building **event-driven backend systems** and **multi-agent AI pipelines**
 - 🌱 I'm currently exploring **LangGraph, MCP tool orchestration & vLLM serving**
