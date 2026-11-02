@@ -37,7 +37,7 @@
 
 ---
 
-##  Beyond the code 😼
+##  Beyond the code 😼⚡
 <div align="center">
 
 <p><code>zartk-23@github ~ $ neofetch --live</code></p>
